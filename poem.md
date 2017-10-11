@@ -1,5 +1,5 @@
    ## Nature I
-   **by Ralph Waldo Emerson**
+   > by Ralph Waldo Emerson
    
    _Winters_ know<br>
    Easily to shed the snow,<br>
