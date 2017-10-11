@@ -1,9 +1,9 @@
-   Nature I
-   by Ralph Waldo Emerson
+   #Nature I
+   **by Ralph Waldo Emerson**
    
-    Winters know
+    _Winters_ know
     Easily to shed the snow,
-    And the untaught Spring is wise
+    And the untaught _Spring_ is wise
     In cowslips and anemonies.
     Nature, hating art and pains,
     Baulks and baffles plotting brains;
@@ -22,3 +22,6 @@
     And do well because they please,
     Who walk in ways that are unfamed,
     And feats achieve before they're named.
+    
+    
+http://www.public-domain-poetry.com/ralph-waldo-emerson/nature-i-15317 
